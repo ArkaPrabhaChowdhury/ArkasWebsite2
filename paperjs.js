@@ -1,5 +1,5 @@
 const dropboxLink = "https://www.dropbox.com/s/emtvedvcu74usj3/ICTACSE-2022%20Contents-pages-160-164.pdf?dl=0";
-const clientId = "e800d12fc12c4d60960778b2bc4370af";
+const clientId = "4394ce348fbb4dd4a861c5bc7d752d30";
 const viewerOptions = {
     embedMode: "FULL_WINDOW",
     defaultViewMode: "FIT_PAGE",
